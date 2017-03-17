@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1489719527 source:/Users/dm/Documents/Local_CSS-1/projects/ICAU_Translator_Pro/ICAO_Translator.cpp
+	<iostream>
+	<string>
+
