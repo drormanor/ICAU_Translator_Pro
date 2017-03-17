@@ -18,7 +18,7 @@ int main () {
     //declaring and initilizing the variables and the messages to be used in the application
     string title = "\tThe International Civil Aviation Organization (ICAO) Translator\n";
     string message = "Please enter a letter: ";
-    string endMessage = "To terminate the program enter \'$\'\n";
+    string endMessage = "If you want to terminate the program, please enter \'$\'\n";
     string errorMessage = "No codes is associated with the letter: ";
     string goodByeMessage = "Thank you for using the ICAO Translator";
 
